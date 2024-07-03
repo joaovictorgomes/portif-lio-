@@ -37,9 +37,9 @@ const MobileNav = () => {
       </SheetTrigger>
       <SheetContent className="flex flex-col">
         {/* Logo */}
-        <div className="mt-32 mb-40 text-center text-2xl">
+        <div className="text-2xl">
           <Link href="/">
-            <h1 className="text-4xl font-semibold">
+            <h1 className="mb-10 text-4xl font-semibold">
               João<span className="text-accent">.</span>
             </h1>
           </Link>
